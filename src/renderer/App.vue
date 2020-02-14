@@ -22,7 +22,7 @@
         </div>
 
         <div class="md-toolbar-row">
-          <md-tabs class="md-primary">
+          <md-tabs md-sync-route class="md-primary">
             <md-tab
               to="/personal-information"
               id="tab-personal-info"
